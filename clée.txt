@@ -1,0 +1,5 @@
+scaffold-DbContext "Data Source=.;Initial Catalog=BtsBdd;Integrated Security=True;Trust Server Certificate=True;" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+
+
+
+

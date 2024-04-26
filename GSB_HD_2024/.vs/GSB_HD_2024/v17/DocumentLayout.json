@@ -1,0 +1,205 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:models\\departement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\controllers\\medecinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:controllers\\medecinscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:models\\medecin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\controllers\\departementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:controllers\\departementscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\controllers\\specialitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:controllers\\specialitescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|c:\\users\\hugod\\onedrive\\bureau\\projetbts\\gsb_hd_2024\\controllers\\utillisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44180420-0EF5-45C4-B05A-E9019F65CA42}|GSB_HD_2024.csproj|solutionrelative:controllers\\utillisateurscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 114,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:31:21.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T15:29:02.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-03-29T15:28:20.212Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SpecialitesController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\SpecialitesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SpecialitesController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\SpecialitesController.cs",
+              "RelativeToolTip": "Controllers\\SpecialitesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:49:43.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MedecinsController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\MedecinsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MedecinsController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\MedecinsController.cs",
+              "RelativeToolTip": "Controllers\\MedecinsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:19:33.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Departement.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\Departement.cs",
+              "RelativeDocumentMoniker": "Models\\Departement.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\Departement.cs",
+              "RelativeToolTip": "Models\\Departement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:17:42.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DepartementsController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\DepartementsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\DepartementsController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\DepartementsController.cs",
+              "RelativeToolTip": "Controllers\\DepartementsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:47:30.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADMAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T09:52:58.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Medecin.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\Medecin.cs",
+              "RelativeDocumentMoniker": "Models\\Medecin.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Models\\Medecin.cs",
+              "RelativeToolTip": "Models\\Medecin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T14:02:48.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "Controllers\\TokenController.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAswDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T15:32:13.736Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UtillisateursController.cs",
+              "DocumentMoniker": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\UtillisateursController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UtillisateursController.cs",
+              "ToolTip": "C:\\Users\\hugod\\OneDrive\\Bureau\\projetBTS\\GSB_HD_2024\\Controllers\\UtillisateursController.cs",
+              "RelativeToolTip": "Controllers\\UtillisateursController.cs",
+              "ViewState": "AQIAABEAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-29T10:50:16.545Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

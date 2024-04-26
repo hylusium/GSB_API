@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\GSB_HD_2024.props" />
+</Project>
